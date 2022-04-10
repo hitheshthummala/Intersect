@@ -17,7 +17,7 @@ class _LifeQuestionState extends State<LifeQuestion> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Work Question'),
+        title: Text('Life Question'),
       
       ),
       body: Center(
